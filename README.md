@@ -1,5 +1,6 @@
 # skil_markdown_les
 # Classic mac & cheese
+<img src="classic-mac-a-cheese.jpg" class="img-responsive" alt=""> </div>
 ## BENODIGDHEDEN
 300 gram macaroni
 70 gram boter
